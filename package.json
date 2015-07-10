@@ -1,0 +1,22 @@
+{
+  "name": "@rdcl/register-yaml",
+  "version": "1.0.0",
+  "description": "Registers .yaml and .yml extensions, so that they may be loaded using require.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudiculous/node-register-yaml.git"
+  },
+  "author": "RJ van der Weide <rj@rudiculous.net> (http://rdcl.nl)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudiculous/node-register-yaml/issues"
+  },
+  "homepage": "https://github.com/rudiculous/node-register-yaml#readme",
+  "dependencies": {
+    "js-yaml": "*"
+  }
+}
